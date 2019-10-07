@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatronRepositorio", "PatronRepositorio\PatronRepositorio.csproj", "{1E80F2A8-CFCA-4C6D-B39B-C47F1E5B6BAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatronRepositorioTests", "PatronRepositorioTests\PatronRepositorioTests.csproj", "{3727EB22-9D2F-4B68-A1AB-4AACBA358ACB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E80F2A8-CFCA-4C6D-B39B-C47F1E5B6BAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E80F2A8-CFCA-4C6D-B39B-C47F1E5B6BAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E80F2A8-CFCA-4C6D-B39B-C47F1E5B6BAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E80F2A8-CFCA-4C6D-B39B-C47F1E5B6BAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3727EB22-9D2F-4B68-A1AB-4AACBA358ACB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3727EB22-9D2F-4B68-A1AB-4AACBA358ACB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3727EB22-9D2F-4B68-A1AB-4AACBA358ACB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3727EB22-9D2F-4B68-A1AB-4AACBA358ACB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A5983C9-CDF0-4414-AD46-1495700EC277}
+	EndGlobalSection
+EndGlobal
